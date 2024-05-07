@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookStoreWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStoreWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\AskHikayesi.jpg",
+      "PackagePath": "staticwebassets\\images\\AskHikayesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\BeyazZAmbaklar.jpg",
+      "PackagePath": "staticwebassets\\images\\BeyazZAmbaklar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\GeceYarısı.jpg",
+      "PackagePath": "staticwebassets\\images\\GeceYarısı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\KayıpAgaclar.jpg",
+      "PackagePath": "staticwebassets\\images\\KayıpAgaclar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\KozmosVeEvren.jpg",
+      "PackagePath": "staticwebassets\\images\\KozmosVeEvren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\Körlük.jpg",
+      "PackagePath": "staticwebassets\\images\\Körlük.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\book_logo.png",
+      "PackagePath": "staticwebassets\\images\\book_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\icon\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\icon\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\icon\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\icon\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\1e82ed21-fcff-4018-adad-26be319a2f04.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1e82ed21-fcff-4018-adad-26be319a2f04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\5dc72d85-b8e7-4b3a-87da-d0c8848edae9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5dc72d85-b8e7-4b3a-87da-d0c8848edae9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\ac0e923d-6f3b-439d-a81e-84506f2866f5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ac0e923d-6f3b-439d-a81e-84506f2866f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\b48932d4-58aa-4379-9bd3-dcd1c87f3cb0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b48932d4-58aa-4379-9bd3-dcd1c87f3cb0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\c91f8bf8-0e66-4c0c-a91f-564d1ae64791.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c91f8bf8-0e66-4c0c-a91f-564d1ae64791.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\d00f70dd-a060-461b-9e4f-134beddc6e68.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d00f70dd-a060-461b-9e4f-134beddc6e68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\d85a6d02-2b25-4058-b1eb-e52f09799d5d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d85a6d02-2b25-4058-b1eb-e52f09799d5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\product\\e22c854d-9bfb-48d0-a953-f10da954c24a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e22c854d-9bfb-48d0-a953-f10da954c24a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-10\\7f00940b-606b-4357-a26e-c2e4d8454858.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-10\\7f00940b-606b-4357-a26e-c2e4d8454858.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-11\\44fc4cee-5218-45e7-a795-6db7fc76510c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-11\\44fc4cee-5218-45e7-a795-6db7fc76510c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-11\\5f30a9ab-9f1b-4686-b059-6aadafbb8c4f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-11\\5f30a9ab-9f1b-4686-b059-6aadafbb8c4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-12\\063ff692-b16f-4390-b2f0-061b6499ecf5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-12\\063ff692-b16f-4390-b2f0-061b6499ecf5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-12\\756e6afa-f2ba-4baa-b687-7abde7cb1349.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-12\\756e6afa-f2ba-4baa-b687-7abde7cb1349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-13\\1434de82-1efe-43c2-a8f8-2551fcc33785.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-13\\1434de82-1efe-43c2-a8f8-2551fcc33785.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-13\\9dc5055a-bc18-44dc-9523-3052ef39c0cf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-13\\9dc5055a-bc18-44dc-9523-3052ef39c0cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-7\\8a4f5297-f28e-4a44-bc48-8a9949b198dc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-7\\8a4f5297-f28e-4a44-bc48-8a9949b198dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-8\\bd104d85-4354-4955-8f50-9f35d5b95cd3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-8\\bd104d85-4354-4955-8f50-9f35d5b95cd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\products\\product-9\\e87d1ab6-2ec3-4af1-84da-4c6c876ba91f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-9\\e87d1ab6-2ec3-4af1-84da-4c6c876ba91f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\images\\ŞekerPortakali.jpg",
+      "PackagePath": "staticwebassets\\images\\ŞekerPortakali.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrec\\source\\repos\\Emre_Can_GUNES\\BookStoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookStoreWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookStoreWeb.props",
+      "PackagePath": "build\\BookStoreWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStoreWeb.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookStoreWeb.props",
+      "PackagePath": "buildTransitive\\BookStoreWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

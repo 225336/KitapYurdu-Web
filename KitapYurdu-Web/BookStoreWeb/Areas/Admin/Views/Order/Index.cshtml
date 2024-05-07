@@ -1,0 +1,79 @@
+﻿﻿@{
+    var status = Context.Request.Query["Durum"];
+    var pending = "text-primary";
+    var inprocess = "text-primary";
+    var completed = "text-primary";
+    var approved = "text-primary";
+    var all = "text-primary";
+
+    switch (status)
+    {
+        case "Beklemede":
+            pending = "active text-white bg-primary";
+            break;
+        case "İşlemde":
+            inprocess = "active text-white bg-primary";
+            break;
+        case "Tamamlandı":
+            completed = "active text-white bg-primary";
+            break;
+        case "Onaylandı":
+            approved = "active text-white bg-primary";
+            break;
+        default:
+            all = "active text-white bg-primary";
+            break;
+
+    }
+
+}
+
+<div class="card shadow border-0 my-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">
+                    Sipariş Listesi
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="d-flex justify-content-between pb-5 pt-2">
+            <span></span>
+            <ul class="list-group list-group-horizontal-sm">
+                <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="İşlemde">
+                <li class="list-group-item @inprocess">Süreçte</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="Beklemede">
+                <li class="list-group-item @pending">Ödeme bekleniyor</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="Tamamlandı">
+                <li class="list-group-item @completed">Tamamlandı</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="Onaylandı">
+                <li class="list-group-item @approved">Onaylandı</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="all">
+                <li class="list-group-item @all">Tümü</li>
+                </a>
+            </ul>
+        </div>
+        <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>İsim</th>
+                    <th>Telefon Numarası</th>
+                    <th>Email</th>
+                    <th>Durum</th>
+                    <th>Toplam Ücret</th>
+                    <th>Detay</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+@section Scripts{
+    <script src="~/js/order.js"></script>
+}

@@ -1,0 +1,23 @@
+﻿@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Hata";
+}
+
+<h1 class="text-danger">Hata.</h1>
+<h2 class="text-danger">İsteminiz işlenirken bir hata oluştu.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>İstek Kimliği:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Geliştirme Modu</h3>
+<p>
+    <strong>Geliştirme</strong> ortamına geçmek, oluşan hatayla ilgili daha detaylı bilgileri görüntüler.
+</p>
+<p>
+    <strong>Geliştirme ortamı, dağıtılan uygulamalarda etkinleştirilmemelidir</strong>, çünkü istisnalarla ilgili hassas bilgilerin kullanıcılara görüntülenmesine neden olabilir. Yerel hata ayıklama için, geliştirme ortamını etkinleştirmek için <strong>ASPNETCORE_ENVIRONMENT</strong> ortam değişkenini <strong>Development</strong> olarak ayarlayabilir ve uygulamayı yeniden başlatabilirsiniz.
+</p>
